@@ -1,0 +1,4 @@
+name: Proxy
+main: com.alexandre.proxy.Main
+version: 1.0.0
+author: Alexandre
